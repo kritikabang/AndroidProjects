@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/addButton"
+            android:icon="@android:drawable/arrow_up_float"
+            android:title="@string/add"
+            />
+        <item
+            android:id="@+id/subButton"
+            android:icon="@android:drawable/arrow_down_float"
+            android:title="@string/sub"
+            />
+    </group>
+
+
+
+</menu>

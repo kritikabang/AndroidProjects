@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="iimport">Import</string>
+    <string name="gallery">Gallery</string>
+    <string name="slideshow">Slideshow</string>
+    <string name="tools">Tools</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="calucator">Calucator</string>
+    <string name="kritikabang_gmail_com">kritikabang@gmail.com</string>
+    <string name="numone">Enter First Number</string>
+    <string name="numtwo">Enter Second Number</string>
+    <string name="todo">TODO</string>
+    <string name="AdddText">Addition Of Number</string>
+    <string name="add">ADD NUMBER</string>
+    <string name="sub">SUBTRACT NUMBER</string>
+    <string name="numOne">Number One</string>
+    <string name="numTwo">Number Two</string>
+
+</resources>
